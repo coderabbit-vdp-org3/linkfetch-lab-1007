@@ -1,2 +1,7 @@
-# linkfetch-lab-1007
-VDP fixture: content-link fetch plane probe (own lab, authorized)
+# linkfetch-lab
+
+Authorized VDP fixture.
+
+## References
+
+Documentation links will be added here.
